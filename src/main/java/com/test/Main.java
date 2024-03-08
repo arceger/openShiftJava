@@ -8,13 +8,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        ListenerService listenerService = new ListenerServiceImpl();
+   /*     ListenerService listenerService = new ListenerServiceImpl();
 
         try {
             listenerService.KafkaSender();
         } catch (Exception e) {
             e.printStackTrace();
-        }
+        }*/
 
     }
 }
